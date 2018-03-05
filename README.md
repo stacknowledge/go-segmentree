@@ -1,0 +1,1 @@
+# Segment Tree with lazy propagation Golang implementation
